@@ -1,0 +1,8 @@
+streamlit
+txtai
+transformers
+PyPDF2
+rake-nltk
+textblob
+nltk
+scikit-learn
